@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = lanwell_new:main
+      [console_scripts]
+      initialize_lanwell_new_db = lanwell_new.scripts.initializedb:main
+      
